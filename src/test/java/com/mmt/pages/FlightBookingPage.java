@@ -244,4 +244,10 @@ public class FlightBookingPage extends Keywords {
 		else
 			return false;
 	}
+
+	public void verifySeat() {
+		
+		System.out.println("Log");
+	}
+
 }
